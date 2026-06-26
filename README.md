@@ -19,7 +19,7 @@ Welcome to my Software Quality Assurance portfolio! This repository showcases my
 | **Defect Tracking** | `Jira` · `Trello` |
 | **Documentation & Planning** | `Advanced Excel` · `Google Sheets` *(Test Plans, Test Suites, RTM)* |
 | **Core Technical Skills** | Functional Testing · Regression Testing · Boundary Value Analysis · Negative Testing |
-| **Web Technologies** | `HTML` · `CSS` · `JavaScript` · `PHP` |
+| **Web Technologies** | `HTML` · `CSS` · `JavaScript` · `React` · `PHP:Laravel` |
 
 ---
 
